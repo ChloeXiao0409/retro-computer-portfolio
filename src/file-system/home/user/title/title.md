@@ -1,16 +1,16 @@
-!(/images/ed-title.png?aspect=2&noflow=true&width=1.33)
+!(/images/cx-title.png?aspect=2&noflow=true&width=1.33)
 
 
-##   Hi there, 
+## Hi there,
 
-#  *I'm Ed H*
+# *I'm Chloe*
 
-##   • Software Engineer
-##   • Digital Designer
-
-
-
+## Software Engineer
+## Data Engineer
+### ~/mcs/usyd/Australia
 
 
-### Welcome to ED-Linux 1.0 LTS
+
+
+### Welcome to CX-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started

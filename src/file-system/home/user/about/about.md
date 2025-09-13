@@ -4,8 +4,8 @@
 
 # Hi there
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+My name is Chloe Xiao, I’m an  full-stack software engineer & Data Engineer. I have a passion for all things technology and design, from software engineering & AI to UI/UX & 3D graphics.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+In addition to my love of technology, I am also go crazy for animals.
 
-Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.
+Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my 2 years of coding experience.
